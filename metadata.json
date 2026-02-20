@@ -1,0 +1,8 @@
+{
+  "name": "InstaClone",
+  "description": "A full-featured Instagram clone with authentication, reels, posts, and follower systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
